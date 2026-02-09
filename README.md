@@ -1,14 +1,14 @@
-## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bonheur Chris Séraphin ISHIMWE
+ # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bonheur Chris Séraphin ISHIMWE
 
 ## Frontend web developper
 
-Front-end focused developer who enjoys building clean, interactive web experiences.
+Front-end focused developer who enjoys <strong> building clean </strong>, interactive web experiences.
 
 Mostly working with JavaScript, and currently learning Python, with a growing interest in the back-end.
 
 Tech-curious, self-taught, and deeply interested in AI.
 
-Calm when debugging, loud when everything finally works.
+<strong> Calm when debugging, loud when everything finally works. </strong>
 
 Always learning, always aiming higher
 

@@ -40,7 +40,7 @@ I am a student and developer passionate about building practical, clean, and mea
 ### 🧰 Tech Stack & Skills
 
 #### 🟢 Comfortable
-<p left="align">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>&nbsp;
@@ -57,7 +57,7 @@ I am a student and developer passionate about building practical, clean, and mea
 *JavaScript • Python • HTML • CSS • Django • Dart • Tailwind CSS • Supabase • Git • GitHub • Figma*
 
 #### 🟡 Familiar / Learning
-<p left="align">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="36" height="36"/>&nbsp;
@@ -133,7 +133,7 @@ I believe great software balances internal logic with effortless user experience
 
 ### 📬 Connect With Me
 
-<p left="align">
+<p align="left">
   <a href="https://github.com/Le-seul-1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>

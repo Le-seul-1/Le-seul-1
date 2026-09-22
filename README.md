@@ -1,36 +1,148 @@
- # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bonheur Chris Séraphin ISHIMWE
-
-## Frontend web developper
-
-Front-end focused developer who enjoys <strong> building clean </strong>, interactive web experiences.
-
-Mostly working with JavaScript, and currently learning Python, with a growing interest in the back-end.
-
-Tech-curious, self-taught, and deeply interested in AI.
-
-<strong> Calm when debugging, loud when everything finally works. </strong>
-
-Always learning, always aiming higher
-
-* 🌍  I'm based in Burundi
-* ✉️  You can contact me at [ishimwebonheurchris1@gmail.com](mailto:ishimwebonheurchris1@gmail.com)
-* 🚀  I'm currently working on [Sokolink-Burundi](http://sokolink-burundi.netlify.app/)
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+<p align="center">
+  <img src="assets/header.gif" alt="Bonheur Chris S. Ishimwe - Le Seul" width="100%" max-width="800px" />
 </p>
 
-### Socials
+<p align="center">
+  <b>Student &nbsp;•&nbsp; Developer &nbsp;•&nbsp; Builder</b>
+</p>
 
-<p align="left"> <a href="https://www.github.com/le-seul-1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/www.linkedin.com/in/bonheur-chris" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<p align="center">
+  <i>"Let your hands prove what your mouth says."</i>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Le-seul-1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Le-seul-1&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-seul-1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Le-seul-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 👨‍💻 About Me
 
+I am a student and developer passionate about building practical, clean, and meaningful digital products. My core focus spans web development, expanding into mobile apps, and actively exploring AI and agentic systems.
 
+- 🌐 **Web Development:** Core background in JavaScript, Python, Vue.js, Django, and Django REST Framework.
+- 📱 **Mobile Development:** Expanding my skills with Dart and Flutter to craft cross-platform mobile experiences.
+- 🤖 **AI & Automation:** Actively learning Machine Learning, model training, practical AI applications, AI agents, and agentic workflows.
+- 🧠 **Agent Architectures:** Deeply interested in how AI agents function—focusing on tools, memory, capabilities, context, workflows, and MCP.
+- 🎨 **Design & Product:** Experienced with UI/UX design, Web Design, Graphic Design, and Figma to craft visually engaging and intuitive interfaces.
 
+---
+
+### 🌱 Currently Exploring
+
+- 📱 **Mobile development** with Flutter & Dart
+- 🤖 **AI & Machine Learning** concepts and practical applications
+- 🧠 **AI agents** and agentic system design
+- 🔧 **n8n** and intelligent workflow automation
+- 🔗 **MCP** (Model Context Protocol)
+- 🧩 **LangChain & LangGraph** for agent workflows
+- 🛠️ **Google ADK** & agent execution environments
+- 📚 **Model training** and practical deployment
+
+---
+
+### 🧰 Tech Stack & Skills
+
+#### 🟢 Comfortable
+<p left="align">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="36" height="36"/>
+</p>
+
+*JavaScript • Python • HTML • CSS • Django • Dart • Tailwind CSS • Supabase • Git • GitHub • Figma*
+
+#### 🟡 Familiar / Learning
+<p left="align">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="36" height="36"/>
+</p>
+
+*Vue.js • Django REST Framework • Flutter • PHP • PostgreSQL • Firebase • n8n • Machine Learning • REST APIs • SQL*
+
+#### 🔵 Exploring
+*LangChain • LangGraph • Google ADK • MCP • AI Agent Frameworks • Arduino*
+
+---
+
+### 🌐 Web Development
+
+Building clean, responsive frontends connected to robust backends and databases.
+
+- **Frontend:** HTML, CSS, JavaScript, Vue.js, Tailwind CSS
+- **Backend:** Python, Django, Django REST Framework
+- **Database:** SQLite, PostgreSQL, Supabase
+
+---
+
+### 📱 Mobile Development
+
+Actively building cross-platform mobile applications with Flutter to gain practical hands-on experience and bring ideas into user-friendly mobile interfaces.
+
+- **Dart** — 🟢 Comfortable
+- **Flutter** — 🟡 Familiar / Learning
+- **Firebase** — 🟡 Familiar / Learning
+
+---
+
+### 🤖 AI & Agentic Systems
+
+Focusing on understanding the foundations of artificial intelligence and learning how agentic systems operate through **tools, memory, skills/capabilities, context, and workflows**.
+
+- **Key Concepts:** Artificial Intelligence, Machine Learning, Model Training, Practical AI Applications, AI Agents, Agentic Workflows, Automation
+- **Frameworks & Tools:** n8n, MCP (Model Context Protocol), LangChain, LangGraph, Google ADK
+
+---
+
+### 🎨 Design & Product
+
+I believe great software balances internal logic with effortless user experience. I enjoy working on both how a product functions and how users interact with it.
+
+- **Core Capabilities:** UI/UX Design, Web Design, Graphic Design, Figma
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **GuardAI** | AI-powered code security analyzer for automated vulnerability checking | Python, Django, AI APIs | [View Repo](https://github.com/Le-seul-1/GuardAI) |
+| **zigania** | Web project for an automation assistant and smart helper | Vue 3, Tailwind CSS, JS | [View Repo](https://github.com/Le-seul-1/zigania) |
+| **Soko-supa** | E-commerce and marketplace product platform | Python, Django, JS, CSS | [View Repo](https://github.com/Le-seul-1/Soko-supa) |
+| **Mvugira** | Social-impact digital platform focused on community engagement | Python, Django, JS, HTML/CSS | [View Repo](https://github.com/Le-seul-1/Mvugira) |
+| **IgA-app** | AI-powered personalized learning and gamification platform for African students | Dart, Flutter, Python, AI APIs | [View Repo](https://github.com/Le-seul-1/IgA-app) |
+
+---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Le-seul-1&theme=tokyonight&hide_border=true&show_icons=true" alt="Le-seul-1's GitHub Stats" width="400"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le-seul-1&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="350"/>
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p left="align">
+  <a href="https://github.com/Le-seul-1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/le-seul01" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/Bonheur_Chris12" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>

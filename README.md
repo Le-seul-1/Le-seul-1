@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <b>Student &nbsp;•&nbsp; Developer &nbsp;•&nbsp; Builder</b>
-</p>
-
-<p align="center">
   <i>"Let your hands prove what your mouth says."</i>
 </p>
 
@@ -16,24 +12,24 @@
 
 I am a student and developer passionate about building practical, clean, and meaningful digital products. My core focus spans web development, expanding into mobile apps, and actively exploring AI and agentic systems.
 
-- 🌐 **Web Development:** Core background in JavaScript, Python, Vue.js, Django, and Django REST Framework.
-- 📱 **Mobile Development:** Expanding my skills with Dart and Flutter to craft cross-platform mobile experiences.
-- 🤖 **AI & Automation:** Actively learning Machine Learning, model training, practical AI applications, AI agents, and agentic workflows.
-- 🧠 **Agent Architectures:** Deeply interested in how AI agents function—focusing on tools, memory, capabilities, context, workflows, and MCP.
-- 🎨 **Design & Product:** Experienced with UI/UX design, Web Design, Graphic Design, and Figma to craft visually engaging and intuitive interfaces.
+-  **Web Development:** Core background in JavaScript, Python, Vue.js, Django, and Django REST Framework.
+-  **Mobile Development:** Expanding my skills with Dart and Flutter to craft cross-platform mobile experiences.
+-  **AI & Automation:** Actively learning Machine Learning, model training, practical AI applications, AI agents, and agentic workflows.
+-  **Agent Architectures:** Deeply interested in how AI agents function—focusing on tools, memory, capabilities, context, workflows, and MCP.
+-  **Design & Product:** Experienced with UI/UX design, Web Design, Graphic Design, and Figma to craft visually engaging and intuitive interfaces.
 
 ---
 
 ### 🌱 Currently Exploring
 
-- 📱 **Mobile development** with Flutter & Dart
-- 🤖 **AI & Machine Learning** concepts and practical applications
-- 🧠 **AI agents** and agentic system design
-- 🔧 **n8n** and intelligent workflow automation
-- 🔗 **MCP** (Model Context Protocol)
-- 🧩 **LangChain & LangGraph** for agent workflows
-- 🛠️ **Google ADK** & agent execution environments
-- 📚 **Model training** and practical deployment
+-  **Mobile development** with Flutter & Dart
+-  **AI & Machine Learning** concepts and practical applications
+-  **AI agents** and agentic system design
+-  **n8n** and intelligent workflow automation
+-  **MCP** (Model Context Protocol)
+-  **LangChain & LangGraph** for agent workflows
+-  **Google ADK** & agent execution environments
+-  **Model training** and practical deployment
 
 ---
 
@@ -65,10 +61,10 @@ I am a student and developer passionate about building practical, clean, and mea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="36" height="36"/>
 </p>
 
-*Vue.js • Django REST Framework • Flutter • PHP • PostgreSQL • Firebase • n8n • Machine Learning • REST APIs • SQL*
+*Vue.js • Flutter • PHP • PostgreSQL • Firebase • n8n 
 
 #### 🔵 Exploring
-*LangChain • LangGraph • Google ADK • MCP • AI Agent Frameworks • Arduino*
+*LangChain • LangGraph • MCP (Model Context Protocol) • Arduino*
 
 ---
 

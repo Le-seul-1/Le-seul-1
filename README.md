@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <b>Student &nbsp;•&nbsp; Developer &nbsp;•&nbsp; Builder</b>
+</p>
+
+<p align="center">
   <i>"Let your hands prove what your mouth says."</i>
 </p>
 
@@ -12,24 +16,24 @@
 
 I am a student and developer passionate about building practical, clean, and meaningful digital products. My core focus spans web development, expanding into mobile apps, and actively exploring AI and agentic systems.
 
--  **Web Development:** Core background in JavaScript, Python, Vue.js, Django, and Django REST Framework.
--  **Mobile Development:** Expanding my skills with Dart and Flutter to craft cross-platform mobile experiences.
--  **AI & Automation:** Actively learning Machine Learning, model training, practical AI applications, AI agents, and agentic workflows.
--  **Agent Architectures:** Deeply interested in how AI agents function—focusing on tools, memory, capabilities, context, workflows, and MCP.
--  **Design & Product:** Experienced with UI/UX design, Web Design, Graphic Design, and Figma to craft visually engaging and intuitive interfaces.
+- 🌐 **Web Development:** Core background in JavaScript, Python, Vue.js, Django, and Django REST Framework.
+- 📱 **Mobile Development:** Expanding my skills with Dart and Flutter to craft cross-platform mobile experiences.
+- 🤖 **AI & Automation:** Actively learning Machine Learning, model training, practical AI applications, AI agents, and agentic workflows.
+- 🧠 **Agent Architectures:** Deeply interested in how AI agents function—focusing on tools, memory, capabilities, context, workflows, and MCP.
+- 🎨 **Design & Product:** Experienced with UI/UX design, Web Design, Graphic Design, and Figma to craft visually engaging and intuitive interfaces.
 
 ---
 
 ### 🌱 Currently Exploring
 
--  **Mobile development** with Flutter & Dart
--  **AI & Machine Learning** concepts and practical applications
--  **AI agents** and agentic system design
--  **n8n** and intelligent workflow automation
--  **MCP** (Model Context Protocol)
--  **LangChain & LangGraph** for agent workflows
--  **Google ADK** & agent execution environments
--  **Model training** and practical deployment
+- 📱 **Mobile development** with Flutter & Dart
+- 🤖 **AI & Machine Learning** concepts and practical applications
+- 🧠 **AI agents** and agentic system design
+- 🔧 **n8n** and intelligent workflow automation
+- 🔗 **MCP** (Model Context Protocol)
+- 🧩 **LangChain & LangGraph** for agent workflows
+- 🛠️ **Google ADK** & agent execution environments
+- 📚 **Model training** and practical deployment
 
 ---
 
@@ -41,12 +45,12 @@ I am a student and developer passionate about building practical, clean, and mea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/django/092E20" alt="Django" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="36" height="36"/>
 </p>
 
@@ -62,17 +66,17 @@ I am a student and developer passionate about building practical, clean, and mea
   <img src="https://cdn.simpleicons.org/n8n/FF6D5A" alt="n8n" width="36" height="36"/>
 </p>
 
-*Vue.js • Flutter • PHP • PostgreSQL • Firebase • n8n 
+*Vue.js • Django REST Framework • Flutter • PHP • PostgreSQL • Firebase • n8n • Machine Learning • REST APIs • SQL*
 
 #### 🔵 Exploring
 <p align="left">
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/langgraph/1C3C3C" alt="LangGraph" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/modelcontextprotocol/181717" alt="MCP" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/white" alt="LangChain" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/langgraph/white" alt="LangGraph" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/modelcontextprotocol/white" alt="MCP" width="36" height="36"/>&nbsp;
   <img src="https://cdn.simpleicons.org/arduino/00878F" alt="Arduino" width="36" height="36"/>
 </p>
 
-*LangChain • LangGraph • MCP • Arduino*
+*LangChain • LangGraph • Google ADK • MCP • AI Agent Frameworks • Arduino*
 
 ---
 
@@ -128,9 +132,9 @@ I believe great software balances internal logic with effortless user experience
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Le-seul-1&theme=tokyonight&hide_border=true&show_icons=true" alt="Le-seul-1's GitHub Stats" width="400"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Le-seul-1&theme=tokyonight&hide_border=true&show_icons=true" alt="Le-seul-1's GitHub Stats" width="400"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le-seul-1&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="350"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Le-seul-1&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="350"/>
 </p>
 
 ---

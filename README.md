@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <i>"Let your hands prove what your mouth says."</i>
+  <i>"Calm when debugging, loud when everything finally works."</i>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a student and developer passionate about building practical, clean, and meaningful digital products. My core focus spans web development, expanding into mobile apps, and actively exploring AI and agentic systems.
+I am a student, leader and developer passionate about building practical, clean, and meaningful digital products. My core focus spans web development, expanding into mobile apps, and actively exploring AI and agentic systems.
 
 -  **Web Development:** Core background in JavaScript, Python, Vue.js, Django, and Django REST Framework.
 -  **Mobile Development:** Expanding my skills with Dart and Flutter to craft cross-platform mobile experiences.
@@ -41,12 +41,12 @@ I am a student and developer passionate about building practical, clean, and mea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/django/white" alt="Django" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="36" height="36"/>
 </p>
 
@@ -58,13 +58,21 @@ I am a student and developer passionate about building practical, clean, and mea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="36" height="36"/>
+  <img src="https://devicons.io/devicons/icons/firebase-icon.svg" alt="Firebase" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/FF6D5A" alt="n8n" width="36" height="36"/>
 </p>
 
-*Vue.js • Flutter • PHP • PostgreSQL • Firebase • n8n 
+*Vue.js • Flutter • PHP • PostgreSQL • Firebase • n8n* 
 
 #### 🔵 Exploring
-*LangChain • LangGraph • MCP (Model Context Protocol) • Arduino*
+<p align="left">
+  <img src="https://devicons.io/devicons/icons/langchain.svg" alt="LangChain" width="36" height="36"/>&nbsp;
+  <img src="https://devicons.io/devicons/icons/langgraph.svg" alt="LangGraph" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/modelcontextprotocol/white" alt="MCP" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/arduino/00878F" alt="Arduino" width="36" height="36"/>
+</p>
+
+*LangChain • LangGraph • MCP • Arduino*
 
 ---
 
@@ -120,9 +128,9 @@ I believe great software balances internal logic with effortless user experience
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Le-seul-1&theme=tokyonight&hide_border=true&show_icons=true" alt="Le-seul-1's GitHub Stats" width="400"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Le-seul-1&theme=tokyonight&hide_border=true&show_icons=true" alt="Le-seul-1's GitHub Stats" width="400"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le-seul-1&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="350"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Le-seul-1&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="350"/>
 </p>
 
 ---

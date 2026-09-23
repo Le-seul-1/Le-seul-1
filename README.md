@@ -45,7 +45,7 @@ I am a student and developer passionate about building practical, clean, and mea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/django/white" alt="Django" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="36" height="36"/>&nbsp;
@@ -70,8 +70,8 @@ I am a student and developer passionate about building practical, clean, and mea
 
 #### 🔵 Exploring
 <p align="left">
-  <img src="https://cdn.simpleicons.org/langchain/white" alt="LangChain" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/langgraph/white" alt="LangGraph" width="36" height="36"/>&nbsp;
+  <img src="https://devicons.io/devicons/icons/langchain.svg" alt="LangChain" width="36" height="36"/>&nbsp;
+  <img src="https://devicons.io/devicons/icons/langgraph.svg" alt="LangGraph" width="36" height="36"/>&nbsp;
   <img src="https://cdn.simpleicons.org/modelcontextprotocol/white" alt="MCP" width="36" height="36"/>&nbsp;
   <img src="https://cdn.simpleicons.org/arduino/00878F" alt="Arduino" width="36" height="36"/>
 </p>
